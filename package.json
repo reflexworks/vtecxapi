@@ -1,0 +1,22 @@
+{
+  "name": "vtecxapi",
+  "version": "0.9.13",
+  "description": "vte.cx server-side JavaScript API",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/reflexworks/vtecxapi.git"
+  },
+  "keywords": [
+    "vtecx"
+  ],
+  "author": "s.takezaki",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/reflexworks/vtecxapi/issues"
+  },
+  "homepage": "https://github.com/reflexworks/vtecxapi#readme"
+}
